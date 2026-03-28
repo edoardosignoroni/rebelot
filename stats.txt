@@ -1,0 +1,95 @@
+
+==============================
+Stats for: all.jsonl
+==============================
+Lines: 704
+Words: 79607
+Characters: 476807
+Empty lines: 0
+Vocabulary size: 22284
+Average line length (words): 113.08
+Average word length (chars): 5.00
+Top 10 most used words: [('di', 1823), ('che', 1509), ('e', 1430), ('la', 1284), ('il', 1269), ('a', 1149), ('in', 898), ('un', 816), ('è', 716), ('/', 641)]
+Least used 10 words: [('37', 1), ('all’alpeggio', 1), ('tornavano', 1), ('pascolo', 1), ('mantenere', 1), ('grosse', 1), ('c’èrano', 1), ('dappertutto', 1), ('Lodigiano', 1), ('cento', 1)]
+Total <eng> words: 5980
+Average <eng> words per line: 8.49 (min: 1, max: 83)
+Total <ita> words: 63206
+Average <ita> words per line: 89.78 (min: 0, max: 661)
+Total <lmo> words: 11657
+Average <lmo> words per line: 16.56 (min: 1, max: 612)
+
+==============================
+Stats for: dev.jsonl
+==============================
+Lines: 70
+Words: 7358
+Characters: 43289
+Empty lines: 0
+Vocabulary size: 3339
+Average line length (words): 105.11
+Average word length (chars): 4.89
+Top 10 most used words: [('di', 170), ('e', 158), ('che', 138), ('la', 108), ('il', 101), ('a', 98), ('i', 96), ('per', 80), ('in', 79), ('/', 73)]
+Least used 10 words: [('#Salò', 1), ('10°30\'37.2"E)', 1), ('(45°36\'38.6"N', 1), ('Salò', 1), ('⠀', 1), ('Bergamasca.', 1), ('digressioni', 1), ('angoli', 1), ('voci', 1), ('successo,', 1)]
+Total <eng> words: 655
+Average <eng> words per line: 9.36 (min: 1, max: 35)
+Total <ita> words: 5425
+Average <ita> words per line: 77.50 (min: 0, max: 466)
+Total <lmo> words: 1384
+Average <lmo> words per line: 19.77 (min: 1, max: 202)
+
+==============================
+Stats for: test.jsonl
+==============================
+Lines: 71
+Words: 8333
+Characters: 49388
+Empty lines: 0
+Vocabulary size: 3687
+Average line length (words): 117.37
+Average word length (chars): 4.94
+Top 10 most used words: [('di', 188), ('che', 174), ('il', 146), ('e', 136), ('la', 129), ('a', 124), ('in', 90), ('è', 80), ('/', 76), ('un', 73)]
+Least used 10 words: [('lavoro.', 1), ('ambienti', 1), ('lavorativi', 1), ('cicli', 1), ('popolare,', 1), ('forme', 1), ('agricoli,', 1), ('riposo', 1), ('momento', 1), ('veglia', 1)]
+Total <eng> words: 592
+Average <eng> words per line: 8.34 (min: 1, max: 79)
+Total <ita> words: 6877
+Average <ita> words per line: 96.86 (min: 1, max: 383)
+Total <lmo> words: 972
+Average <lmo> words per line: 13.69 (min: 1, max: 89)
+
+==============================
+Stats for: train.jsonl
+==============================
+Lines: 563
+Words: 63916
+Characters: 384093
+Empty lines: 0
+Vocabulary size: 18931
+Average line length (words): 113.53
+Average word length (chars): 5.02
+Top 10 most used words: [('di', 1465), ('che', 1197), ('e', 1136), ('la', 1047), ('il', 1022), ('a', 927), ('in', 729), ('un', 678), ('è', 585), ('-', 509)]
+Least used 10 words: [('salta', 1), ('roditore', 1), ('satollo.', 1), ('sarei', 1), ('conigli', 1), ('prégn', 1), ('sarès', 1), ('conìcc', 1), ('Pregno).', 1), ('Sarezzo,', 1)]
+Total <eng> words: 4733
+Average <eng> words per line: 8.41 (min: 1, max: 83)
+Total <ita> words: 50904
+Average <ita> words per line: 90.42 (min: 1, max: 661)
+Total <lmo> words: 9301
+Average <lmo> words per line: 16.52 (min: 1, max: 612)
+
+==============================
+Stats for: TOTAL
+==============================
+Lines: 1408
+Words: 159214
+Characters: 953577
+Empty lines: 0
+Vocabulary size: 22289
+Average line length (words): 113.08
+Average word length (chars): 5.00
+Top 10 most used words: [('di', 3646), ('che', 3018), ('e', 2860), ('la', 2568), ('il', 2538), ('a', 2298), ('in', 1796), ('un', 1632), ('è', 1432), ('/', 1282)]
+Least used 10 words: [("@bresciadice's", 1), ('info@utente', 1), ('judges@utente', 1), ('PST', 1), ('Cognome.', 1), ('Gusmini.', 1), ('@@utente', 1), ("@utente's", 1), ('info@civiltabresciana.it', 1), ('(@bresciadice)', 1)]
+Total <eng> words: 11960
+Average <eng> words per line: 8.49 (min: 1, max: 83)
+Total <ita> words: 126412
+Average <ita> words per line: 89.78 (min: 0, max: 661)
+Total <lmo> words: 23314
+Average <lmo> words per line: 16.56 (min: 1, max: 612)
