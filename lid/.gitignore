@@ -1,0 +1,16 @@
+models/
+stamps/
+data/raw_data
+data/code-mixing
+data/monolingual
+training_datasets/hf_datasets
+training_datasets/stamps
+sentence-level/__pycache__
+sentence-level/compared_tools/__pycache__
+sentence-level/tools_models
+sentence-level/results
+sentence-level/eval_dataset
+results/
+evaluation/eval_datasets/hf_datasets
+evaluation/eval_datasets/stamps
+evaluation/eval_datasets/jsonl
