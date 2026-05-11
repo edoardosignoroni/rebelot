@@ -1,1 +1,4 @@
-/vert
+./venv
+anonymize_vert_names.py
+/__pycache__
+/vert.bak
